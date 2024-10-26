@@ -1,2 +1,2 @@
 # SIMON-SAYS-GAME
-make a Simon Says Game using JS
+make a Simon Says Game using HTML,CSS,JS
