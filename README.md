@@ -1,7 +1,3 @@
-# SIMON-SAYS-GAME
-make a Simon Says Game using HTML,CSS,JS
+# SIMON-SAYS-GAME Using HTML,CSS,JS
 
-
-# student
-Akshay Hadiya
 
